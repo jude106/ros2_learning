@@ -1,1 +1,1 @@
-Current Status: Learning ROS2 is fun.
+Current Status: Learning ROS2 is easy.
